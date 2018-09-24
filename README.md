@@ -9,6 +9,6 @@ Currently supported version: **v0.9.1 (64bit)**
 * [F4] - fast research(research technologies in 1 second)
 ## Usage and compiling
 The game uses JIT compilation which means some functions might not be compiled at game start. 
-Active trainer features only after making sure the needed function is compiled(e.g. train a unit before activating veteran training or start researching a technology before activating fast research).
+Activate trainer features only after making sure the needed function is compiled(e.g. train a unit before activating veteran training or start researching a technology before activating fast research).
 
 Compile for x64.
